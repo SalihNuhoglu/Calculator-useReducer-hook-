@@ -1,4 +1,4 @@
-<h1>Calculator with useReducer<h1>
+<h1>Calculator with useReducer Hook<h1>
 
 
 
